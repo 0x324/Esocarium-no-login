@@ -1,5 +1,6 @@
-# Esocarium raiding tool leaked 
+# Esocarium raiding tool  
+# NOT WORKING 
 ----
 Esocarium raiding tool 
-Leaked by me :)
+We deciced to public this
 Original dev = fxckhura , rotto64
